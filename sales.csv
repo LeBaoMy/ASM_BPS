@@ -1,0 +1,201 @@
+SaleID,CustomerID,ProductID,SaleDate,Quantity,TotalPrice,PaymentMethod,SaleChannel
+1,89,12,2021-05-12,3,239.97,Credit Card,In-Store
+2,42,5,2021-08-26,4,319.96,Cash,Online
+3,5,25,2023-04-18,2,259.98,Debit Card,Online
+4,31,28,2020-08-03,4,1599.96,Credit Card,Phone
+5,68,7,2023-11-09,3,89.97,PayPal,In-Store
+6,77,36,2020-11-29,2,139.98,Debit Card,Online
+7,47,31,2020-05-04,5,1999.95,Debit Card,Online
+8,96,38,2020-11-26,4,359.96,Debit Card,Online
+9,82,17,2021-03-28,3,239.97,Cash,Online
+10,2,2,2022-08-21,2,999.98,Debit Card,In-Store
+11,8,42,2020-05-29,5,259.95,Credit Card,Online
+12,24,16,2021-02-15,1,99.99,Debit Card,In-Store
+13,41,44,2021-01-18,4,319.96,Credit Card,Online
+14,14,4,2021-08-24,2,259.98,PayPal,Online
+15,79,26,2020-03-21,3,899.97,Debit Card,Phone
+16,26,47,2020-06-14,1,49.99,Debit Card,In-Store
+17,1,6,2021-09-04,4,199.96,Credit Card,Online
+18,94,12,2020-03-25,5,399.95,PayPal,Online
+19,6,49,2022-09-06,5,649.95,Credit Card,Phone
+20,61,22,2020-09-09,4,3599.96,Debit Card,In-Store
+21,66,30,2021-10-02,4,1599.96,Debit Card,In-Store
+22,11,45,2020-05-03,2,59.98,Credit Card,In-Store
+23,56,33,2023-05-15,2,99.98,PayPal,In-Store
+24,17,35,2022-03-27,3,449.97,Credit Card,Online
+25,85,35,2022-03-08,1,149.99,Debit Card,In-Store
+26,37,23,2021-01-20,2,1799.98,Debit Card,In-Store
+27,32,3,2020-12-23,5,499.95,Debit Card,Online
+28,19,1,2021-09-22,2,599.98,PayPal,Phone
+29,36,32,2021-01-01,1,399.99,Debit Card,Phone
+30,33,13,2020-08-04,5,649.95,Debit Card,In-Store
+31,78,14,2022-11-10,3,269.97,Debit Card,Online
+32,43,9,2023-07-05,2,99.98,Credit Card,In-Store
+33,87,8,2023-08-18,1,29.99,Cash,Online
+34,52,41,2023-06-30,4,439.96,Credit Card,Online
+35,21,24,2021-07-14,3,509.97,Debit Card,In-Store
+36,67,11,2021-06-03,5,399.95,Debit Card,Online
+37,73,18,2021-04-17,2,159.98,Cash,Online
+38,48,37,2022-12-01,1,129.99,Credit Card,In-Store
+39,97,10,2022-05-28,4,239.96,Debit Card,Online
+40,83,48,2022-04-05,3,449.97,Credit Card,In-Store
+41,3,27,2021-03-08,2,799.98,Debit Card,Online
+42,9,40,2022-07-19,1,29.99,Cash,In-Store
+43,25,46,2023-10-22,5,599.95,Credit Card,In-Store
+44,42,15,2022-02-14,4,799.96,Debit Card,Online
+45,15,19,2021-11-27,2,239.98,Debit Card,In-Store
+46,80,21,2021-10-09,3,809.97,Credit Card,Online
+47,27,34,2021-05-01,1,49.99,Debit Card,In-Store
+48,2,39,2022-08-28,4,1199.96,Debit Card,Online
+49,88,20,2023-01-14,5,1299.95,PayPal,Online
+50,63,43,2023-12-19,3,389.97,Debit Card,In-Store
+51,68,29,2023-11-11,2,1199.98,Debit Card,Online
+52,22,6,2021-07-27,1,99.99,Credit Card,In-Store
+53,57,4,2023-05-05,4,519.96,PayPal,Online
+54,18,25,2022-03-19,5,649.95,Credit Card,In-Store
+55,86,5,2022-03-02,2,159.98,Debit Card,Online
+56,38,36,2021-01-03,3,209.97,Debit Card,Online
+57,33,31,2020-07-10,1,399.99,Credit Card,In-Store
+58,20,38,2020-09-16,4,479.96,PayPal,Online
+59,37,17,2021-01-25,2,199.98,Credit Card,In-Store
+60,34,2,2020-08-22,3,1499.97,Debit Card,Online
+61,14,22,2021-12-11,5,1199.95,Debit Card,In-Store
+62,85,13,2022-10-15,4,459.96,Credit Card,Online
+63,29,42,2022-09-07,3,269.97,Debit Card,In-Store
+64,53,3,2022-06-25,2,139.98,PayPal,Online
+65,6,30,2022-05-14,1,89.99,Credit Card,In-Store
+66,75,16,2021-03-31,4,349.96,Debit Card,Online
+67,44,35,2020-12-03,3,299.97,Credit Card,In-Store
+68,76,28,2020-10-28,2,159.98,Debit Card,Online
+69,11,23,2021-09-20,1,19.99,Cash,In-Store
+70,70,47,2022-11-05,5,599.95,Credit Card,Online
+71,16,9,2022-08-18,4,379.96,Debit Card,In-Store
+72,92,7,2023-07-20,3,539.97,Debit Card,Online
+73,41,44,2023-05-09,2,219.98,Credit Card,In-Store
+74,47,33,2023-03-16,1,149.99,Cash,Online
+75,95,12,2022-01-31,5,1399.95,Credit Card,In-Store
+76,74,26,2021-12-22,4,499.96,Debit Card,Online
+77,65,14,2021-10-09,3,299.97,Debit Card,In-Store
+78,81,5,2021-06-17,2,179.98,Credit Card,Online
+79,13,41,2022-05-25,1,29.99,Cash,In-Store
+80,24,40,2022-04-08,5,999.95,Credit Card,Online
+81,91,19,2021-04-01,4,379.96,Debit Card,In-Store
+82,62,21,2020-12-19,3,269.97,Debit Card,Online
+83,59,10,2020-11-07,2,109.98,Credit Card,In-Store
+84,7,38,2021-08-14,1,59.99,Cash,Online
+85,35,27,2023-12-31,5,1099.95,Credit Card,In-Store
+86,98,4,2023-10-10,4,439.96,Debit Card,Online
+87,19,31,2022-09-14,3,299.97,Debit Card,In-Store
+88,77,32,2022-06-09,2,219.98,Credit Card,Online
+89,36,1,2022-04-12,1,99.99,Cash,In-Store
+90,55,46,2023-03-02,5,699.95,Credit Card,Online
+91,82,15,2021-02-25,4,479.96,Debit Card,In-Store
+92,32,8,2020-11-12,3,329.97,Credit Card,Online
+93,68,25,2023-08-05,2,239.98,Debit Card,In-Store
+94,14,43,2023-06-21,1,39.99,Cash,Online
+95,90,39,2022-02-13,5,899.95,Credit Card,In-Store
+96,57,18,2022-01-08,4,389.96,Debit Card,Online
+97,80,11,2021-07-02,3,299.97,Debit Card,In-Store
+98,38,34,2021-05-20,2,169.98,Credit Card,Online
+99,97,29,2022-04-19,1,49.99,Cash,In-Store
+100,12,48,2022-03-06,5,799.95,Credit Card,Online
+101,69,22,2021-01-29,4,459.96,Debit Card,In-Store
+102,45,6,2020-10-19,3,269.97,Debit Card,Online
+103,71,45,2023-07-03,2,219.98,Credit Card,In-Store
+104,78,37,2023-04-20,1,119.99,Cash,Online
+105,93,13,2022-02-07,5,1299.95,Credit Card,In-Store
+106,64,27,2021-12-28,4,429.96,Debit Card,Online
+107,60,16,2021-10-15,3,299.97,Debit Card,In-Store
+108,86,5,2021-07-24,2,159.98,Credit Card,Online
+109,8,42,2022-06-01,1,19.99,Cash,In-Store
+110,25,41,2022-04-14,5,1099.95,Credit Card,Online
+111,92,19,2021-03-04,4,379.96,Debit Card,In-Store
+112,63,20,2020-12-26,3,329.97,Debit Card,Online
+113,58,9,2020-11-13,2,139.98,Credit Card,In-Store
+114,6,36,2021-09-08,1,69.99,Cash,Online
+115,36,28,2024-01-15,5,1399.95,Credit Card,In-Store
+116,99,3,2023-10-22,4,459.96,Debit Card,Online
+117,20,30,2023-08-26,3,299.97,Debit Card,In-Store
+118,78,31,2023-06-03,2,219.98,Credit Card,Online
+119,37,2,2023-03-17,1,89.99,Cash,In-Store
+120,56,47,2022-12-28,5,999.95,Credit Card,Online
+121,91,24,2022-02-15,4,479.96,Debit Card,In-Store
+122,32,10,2021-11-12,3,329.97,Credit Card,Online
+123,68,17,2024-08-05,2,239.98,Debit Card,In-Store
+124,14,38,2024-06-21,1,39.99,Cash,Online
+125,90,44,2023-02-13,5,899.95,Credit Card,In-Store
+126,57,21,2023-01-08,4,389.96,Debit Card,Online
+127,80,12,2022-07-02,3,299.97,Debit Card,In-Store
+128,38,33,2022-05-20,2,169.98,Credit Card,Online
+129,97,28,2023-04-19,1,49.99,Cash,In-Store
+130,12,47,2023-03-06,5,799.95,Credit Card,Online
+131,69,23,2022-01-29,4,459.96,Debit Card,In-Store
+132,45,7,2021-10-19,3,269.97,Debit Card,Online
+133,71,46,2024-07-03,2,219.98,Credit Card,In-Store
+134,78,35,2024-04-20,1,119.99,Cash,Online
+135,93,14,2023-02-07,5,1299.95,Credit Card,In-Store
+136,64,26,2022-12-28,4,429.96,Debit Card,Online
+137,60,15,2022-10-15,3,299.97,Debit Card,In-Store
+138,86,4,2022-07-24,2,159.98,Credit Card,Online
+139,8,43,2023-06-01,1,19.99,Cash,In-Store
+140,25,42,2023-04-14,5,1099.95,Credit Card,Online
+141,92,20,2022-03-04,4,379.96,Debit Card,In-Store
+142,63,18,2022-12-26,3,329.97,Debit Card,Online
+143,58,11,2021-11-13,2,139.98,Credit Card,In-Store
+144,6,37,2022-09-08,1,69.99,Cash,Online
+145,36,29,2025-01-15,5,1399.95,Credit Card,In-Store
+146,99,4,2024-10-22,4,459.96,Debit Card,Online
+147,20,31,2024-08-26,3,299.97,Debit Card,In-Store
+148,78,32,2024-06-03,2,219.98,Credit Card,Online
+149,37,3,2024-03-17,1,89.99,Cash,In-Store
+150,56,48,2023-12-28,5,999.95,Credit Card,Online
+151,71,5,2023-11-05,4,439.96,Debit Card,In-Store
+152,88,16,2023-10-22,3,359.97,Credit Card,Online
+153,40,39,2022-09-25,2,179.98,Debit Card,In-Store
+154,18,13,2022-08-11,1,29.99,Cash,Online
+155,76,45,2022-06-18,5,999.95,Credit Card,In-Store
+156,32,22,2022-04-14,4,319.96,Debit Card,Online
+157,61,8,2022-02-28,3,239.97,Debit Card,In-Store
+158,84,34,2021-12-15,2,149.98,Credit Card,Online
+159,9,29,2023-10-05,1,49.99,Cash,In-Store
+160,26,48,2023-08-22,5,1099.95,Credit Card,Online
+161,93,24,2022-07-08,4,459.96,Debit Card,In-Store
+162,67,7,2022-05-26,3,269.97,Debit Card,Online
+163,84,46,2025-01-03,2,219.98,Credit Card,In-Store
+164,76,35,2024-10-21,1,119.99,Cash,Online
+165,41,14,2023-09-19,5,1299.95,Credit Card,In-Store
+166,28,26,2023-07-16,4,389.96,Debit Card,Online
+167,49,15,2023-05-03,3,299.97,Debit Card,In-Store
+168,77,5,2023-02-20,2,169.98,Credit Card,Online
+169,5,44,2024-12-11,1,19.99,Cash,In-Store
+170,60,43,2024-10-27,5,1199.95,Credit Card,Online
+171,87,21,2023-09-11,4,429.96,Debit Card,In-Store
+172,74,17,2023-07-31,3,269.97,Debit Card,Online
+173,56,12,2023-06-17,2,139.98,Credit Card,In-Store
+174,28,37,2023-04-03,1,69.99,Cash,Online
+175,22,30,2026-02-01,5,1599.95,Credit Card,In-Store
+176,73,6,2025-11-06,4,519.96,Debit Card,Online
+177,95,33,2025-09-24,3,299.97,Debit Card,In-Store
+178,18,32,2025-08-11,2,219.98,Credit Card,Online
+179,64,2,2025-06-29,1,89.99,Cash,In-Store
+180,51,47,2025-05-16,5,999.95,Credit Card,Online
+181,85,23,2025-03-03,4,419.96,Debit Card,In-Store
+182,12,9,2025-01-19,3,239.97,Credit Card,Online
+183,63,41,2024-12-06,2,179.98,Debit Card,In-Store
+184,97,40,2024-10-24,1,29.99,Cash,Online
+185,30,3,2024-09-09,5,999.95,Credit Card,In-Store
+186,46,25,2024-07-07,4,319.96,Debit Card,Online
+187,85,11,2024-05-25,3,239.97,Debit Card,In-Store
+188,52,36,2024-04-11,2,149.98,Credit Card,Online
+189,99,31,2024-02-26,1,49.99,Cash,In-Store
+190,36,50,2026-01-16,5,1099.95,Credit Card,Online
+191,64,19,2025-11-02,4,459.96,Debit Card,In-Store
+192,77,10,2025-09-20,3,269.97,Debit Card,Online
+193,18,42,2025-08-07,2,219.98,Credit Card,In-Store
+194,93,18,2025-06-25,1,119.99,Cash,Online
+195,60,4,2025-05-12,5,1299.95,Credit Card,In-Store
+196,82,27,2025-03-30,4,389.96,Debit Card,Online
+197,21,38,2025-01-15,3,299.97,Debit Card,In-Store
+198,43,28,2024-11-02,2,169.98,Credit Card,Online
+199,75,49,2024-09-19,1,19.99,Cash,In-Store
+200,89,48,2024-08-06,5,1199.95,Credit Card,Online
